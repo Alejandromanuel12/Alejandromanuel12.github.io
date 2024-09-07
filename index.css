@@ -1,0 +1,27 @@
+body {
+    background-color: wheat;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    
+}
+h2 {
+    font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.color1 {
+    color: green;
+}
+.imagen-pequeña {
+    width: 350px;
+    height: auto;
+}
+.enlaze-grande {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
